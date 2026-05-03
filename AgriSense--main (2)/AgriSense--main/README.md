@@ -24,7 +24,7 @@ AgriTech is an AI-driven smart agriculture assistant designed to empower farmers
 - Enhances decision-making for sustainable farming.
 - Incorporates Google Cloud Vertex AI for model training and automation.
 
-### 🚀 **Team Raghava - Kalasalingam University**
+### 🚀 **Team AFWAN - Kalasalingam University**
 This project is developed by Team Raghava from Kalasalingam Academy of Research and Education, Krishnankoil, Tamil Nadu, India.
 
 ## How to Run the Application
